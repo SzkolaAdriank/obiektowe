@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adriank\\Desktop\\adriank\\oop\\zadanieabstrakcja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24687D11-3CA9-4652-8552-7B18B29AD4DF}|zadanieabstrakcja\\zadanieabstrakcja.csproj|c:\\users\\adriank\\desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\katalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24687D11-3CA9-4652-8552-7B18B29AD4DF}|zadanieabstrakcja\\zadanieabstrakcja.csproj|solutionrelative:zadanieabstrakcja\\katalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24687D11-3CA9-4652-8552-7B18B29AD4DF}|zadanieabstrakcja\\zadanieabstrakcja.csproj|c:\\users\\adriank\\desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\ksiazka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24687D11-3CA9-4652-8552-7B18B29AD4DF}|zadanieabstrakcja\\zadanieabstrakcja.csproj|solutionrelative:zadanieabstrakcja\\ksiazka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24687D11-3CA9-4652-8552-7B18B29AD4DF}|zadanieabstrakcja\\zadanieabstrakcja.csproj|c:\\users\\adriank\\desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\biblioteka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24687D11-3CA9-4652-8552-7B18B29AD4DF}|zadanieabstrakcja\\zadanieabstrakcja.csproj|solutionrelative:zadanieabstrakcja\\biblioteka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24687D11-3CA9-4652-8552-7B18B29AD4DF}|zadanieabstrakcja\\zadanieabstrakcja.csproj|c:\\users\\adriank\\desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\czasopismo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24687D11-3CA9-4652-8552-7B18B29AD4DF}|zadanieabstrakcja\\zadanieabstrakcja.csproj|solutionrelative:zadanieabstrakcja\\czasopismo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24687D11-3CA9-4652-8552-7B18B29AD4DF}|zadanieabstrakcja\\zadanieabstrakcja.csproj|c:\\users\\adriank\\desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24687D11-3CA9-4652-8552-7B18B29AD4DF}|zadanieabstrakcja\\zadanieabstrakcja.csproj|solutionrelative:zadanieabstrakcja\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24687D11-3CA9-4652-8552-7B18B29AD4DF}|zadanieabstrakcja\\zadanieabstrakcja.csproj|c:\\users\\adriank\\desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24687D11-3CA9-4652-8552-7B18B29AD4DF}|zadanieabstrakcja\\zadanieabstrakcja.csproj|solutionrelative:zadanieabstrakcja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24687D11-3CA9-4652-8552-7B18B29AD4DF}|zadanieabstrakcja\\zadanieabstrakcja.csproj|c:\\users\\adriank\\desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\izarzadzaniepozycjami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24687D11-3CA9-4652-8552-7B18B29AD4DF}|zadanieabstrakcja\\zadanieabstrakcja.csproj|solutionrelative:zadanieabstrakcja\\izarzadzaniepozycjami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24687D11-3CA9-4652-8552-7B18B29AD4DF}|zadanieabstrakcja\\zadanieabstrakcja.csproj|c:\\users\\adriank\\desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\pozycja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24687D11-3CA9-4652-8552-7B18B29AD4DF}|zadanieabstrakcja\\zadanieabstrakcja.csproj|solutionrelative:zadanieabstrakcja\\pozycja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24687D11-3CA9-4652-8552-7B18B29AD4DF}|zadanieabstrakcja\\zadanieabstrakcja.csproj|c:\\users\\adriank\\desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24687D11-3CA9-4652-8552-7B18B29AD4DF}|zadanieabstrakcja\\zadanieabstrakcja.csproj|solutionrelative:zadanieabstrakcja\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24687D11-3CA9-4652-8552-7B18B29AD4DF}|zadanieabstrakcja\\zadanieabstrakcja.csproj|c:\\users\\adriank\\desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\bibliotekarz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24687D11-3CA9-4652-8552-7B18B29AD4DF}|zadanieabstrakcja\\zadanieabstrakcja.csproj|solutionrelative:zadanieabstrakcja\\bibliotekarz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pozycja.cs",
+              "DocumentMoniker": "C:\\Users\\adriank\\Desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\Pozycja.cs",
+              "RelativeDocumentMoniker": "zadanieabstrakcja\\Pozycja.cs",
+              "ToolTip": "C:\\Users\\adriank\\Desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\Pozycja.cs",
+              "RelativeToolTip": "zadanieabstrakcja\\Pozycja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:31:09.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Osoba.cs",
+              "DocumentMoniker": "C:\\Users\\adriank\\Desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\Osoba.cs",
+              "RelativeDocumentMoniker": "zadanieabstrakcja\\Osoba.cs",
+              "ToolTip": "C:\\Users\\adriank\\Desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\Osoba.cs",
+              "RelativeToolTip": "zadanieabstrakcja\\Osoba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:30:17.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ksiazka.cs",
+              "DocumentMoniker": "C:\\Users\\adriank\\Desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\Ksiazka.cs",
+              "RelativeDocumentMoniker": "zadanieabstrakcja\\Ksiazka.cs",
+              "ToolTip": "C:\\Users\\adriank\\Desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\Ksiazka.cs",
+              "RelativeToolTip": "zadanieabstrakcja\\Ksiazka.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:29:54.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Katalog.cs",
+              "DocumentMoniker": "C:\\Users\\adriank\\Desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\Katalog.cs",
+              "RelativeDocumentMoniker": "zadanieabstrakcja\\Katalog.cs",
+              "ToolTip": "C:\\Users\\adriank\\Desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\Katalog.cs",
+              "RelativeToolTip": "zadanieabstrakcja\\Katalog.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:29:34.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IZarzadzaniePozycjami.cs",
+              "DocumentMoniker": "C:\\Users\\adriank\\Desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\IZarzadzaniePozycjami.cs",
+              "RelativeDocumentMoniker": "zadanieabstrakcja\\IZarzadzaniePozycjami.cs",
+              "ToolTip": "C:\\Users\\adriank\\Desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\IZarzadzaniePozycjami.cs",
+              "RelativeToolTip": "zadanieabstrakcja\\IZarzadzaniePozycjami.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:29:16.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Czasopismo.cs",
+              "DocumentMoniker": "C:\\Users\\adriank\\Desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\Czasopismo.cs",
+              "RelativeDocumentMoniker": "zadanieabstrakcja\\Czasopismo.cs",
+              "ToolTip": "C:\\Users\\adriank\\Desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\Czasopismo.cs",
+              "RelativeToolTip": "zadanieabstrakcja\\Czasopismo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:28:50.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bibliotekarz.cs",
+              "DocumentMoniker": "C:\\Users\\adriank\\Desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\Bibliotekarz.cs",
+              "RelativeDocumentMoniker": "zadanieabstrakcja\\Bibliotekarz.cs",
+              "ToolTip": "C:\\Users\\adriank\\Desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\Bibliotekarz.cs",
+              "RelativeToolTip": "zadanieabstrakcja\\Bibliotekarz.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:28:34.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Biblioteka.cs",
+              "DocumentMoniker": "C:\\Users\\adriank\\Desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\Biblioteka.cs",
+              "RelativeDocumentMoniker": "zadanieabstrakcja\\Biblioteka.cs",
+              "ToolTip": "C:\\Users\\adriank\\Desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\Biblioteka.cs",
+              "RelativeToolTip": "zadanieabstrakcja\\Biblioteka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:28:10.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\adriank\\Desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\Autor.cs",
+              "RelativeDocumentMoniker": "zadanieabstrakcja\\Autor.cs",
+              "ToolTip": "C:\\Users\\adriank\\Desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\Autor.cs",
+              "RelativeToolTip": "zadanieabstrakcja\\Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:27:47.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adriank\\Desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\Program.cs",
+              "RelativeDocumentMoniker": "zadanieabstrakcja\\Program.cs",
+              "ToolTip": "C:\\Users\\adriank\\Desktop\\adriank\\oop\\zadanieabstrakcja\\zadanieabstrakcja\\Program.cs",
+              "RelativeToolTip": "zadanieabstrakcja\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:27:28.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

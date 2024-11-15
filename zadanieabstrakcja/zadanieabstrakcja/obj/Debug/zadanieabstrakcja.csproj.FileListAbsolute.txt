@@ -1,0 +1,2 @@
+C:\Users\adriank\Desktop\adriank\oop\zadanieabstrakcja\zadanieabstrakcja\obj\Debug\zadanieabstrakcja.csproj.AssemblyReference.cache
+C:\Users\adriank\Desktop\adriank\oop\zadanieabstrakcja\zadanieabstrakcja\obj\Debug\zadanieabstrakcja.csproj.CoreCompileInputs.cache
