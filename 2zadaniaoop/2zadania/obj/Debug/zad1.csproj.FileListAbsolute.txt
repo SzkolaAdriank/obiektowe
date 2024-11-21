@@ -1,0 +1,7 @@
+C:\Users\adria\OneDrive\Pulpit\2zadaniaoop\2zadania\bin\Debug\2zadania.exe.config
+C:\Users\adria\OneDrive\Pulpit\2zadaniaoop\2zadania\bin\Debug\2zadania.exe
+C:\Users\adria\OneDrive\Pulpit\2zadaniaoop\2zadania\bin\Debug\2zadania.pdb
+C:\Users\adria\OneDrive\Pulpit\2zadaniaoop\2zadania\obj\Debug\zad1.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\Pulpit\2zadaniaoop\2zadania\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Pulpit\2zadaniaoop\2zadania\obj\Debug\2zadania.exe
+C:\Users\adria\OneDrive\Pulpit\2zadaniaoop\2zadania\obj\Debug\2zadania.pdb
